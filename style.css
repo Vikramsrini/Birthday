@@ -1,0 +1,24 @@
+h1{
+    color: #FF2184;
+    font-family: cursive;
+}
+body{
+    background-color: #B5C0D0;
+}
+
+*{
+    text-align: center;
+    
+}
+img{
+    width: 288px;
+    height: 512px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    font-size: 20px;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
